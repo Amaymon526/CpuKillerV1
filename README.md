@@ -1,1 +1,1 @@
-# CpuKillerV1
+# CpuKiller
